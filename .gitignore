@@ -1,8 +1,5 @@
 <<<<<<< HEAD
-.gradle
-/local.properties
-/.idea/workspace.xml
-/.idea/libraries
+gradle/
 .idea/
 =======
 #################
