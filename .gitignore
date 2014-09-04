@@ -6,13 +6,12 @@
 .idea/
 =======
 #################
-## Eclipse
+## Eclipsedfdf
 #################
 
 *.pydevproject
 .project
 .metadata
-bin/
 tmp/
 *.tmp
 *.bak
@@ -50,12 +49,10 @@ local.properties
 
 # Build results
 
-[Dd]ebug/
 [Rr]elease/
 x64/
 build/
 [Bb]in/
-[Oo]bj/
 
 # MSTest test Results
 [Tt]est[Rr]esult*/
@@ -75,14 +72,12 @@ build/
 *.tlb
 *.tli
 *.tlh
-*.tmp
 *.tmp_proj
 *.log
 *.vspscc
 *.vssscc
 .builds
 *.pidb
-*.log
 *.scc
 
 # Visual C++ cache files
@@ -188,7 +183,6 @@ $RECYCLE.BIN/
 
 # Mac crap
 >>>>>>> parent of 90dd54a... v12.0
-=======
 >>>>>>> parent of 6f90e99... new change 2.0
 .DS_Store
 /build
